@@ -26,3 +26,17 @@ To execute the experiments, navigate to the `./script` directory and use the pro
 * `{AGENT_NUM}` is the number of LLM agents to instantiate.
 * `{MODEL}` specifies the LLM to use, with support for both OpenAI-GPT series and open-source LLMs.
 * `{QTYPE}` denotes the type of questions to be processed, with options including MATH, GSM, MMLU, Chess, and HumanEval.
+
+## Citation 
+If you find the paper or the source code useful to your projects, please cite the following bibtex: 
+<pre>
+@article{
+      li2024more,
+      title={More agents is all you need},
+      author={Li, Junyou and Zhang, Qin and Yu, Yangbin and Fu, Qiang and Ye, Deheng},
+      journal={Transactions on Machine Learning Research},
+      year={2024},
+      url={https://openreview.net/forum?id=bgzUSZ8aeg},
+      note={}
+}
+</pre>
