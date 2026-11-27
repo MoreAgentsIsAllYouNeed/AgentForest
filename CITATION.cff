@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use this software or paper in your research, please cite it as below."
+title: "More Agents Is All You Need"
+type: software
+authors:
+  - family-names: "Li"
+    given-names: "Junyou"
+  - family-names: "Zhang"
+    given-names: "Qin"
+  - family-names: "Yu"
+    given-names: "Yangbin"
+  - family-names: "Fu"
+    given-names: "Qiang"
+  - family-names: "Ye"
+    given-names: "Deheng"
+repository-code: "https://github.com/MoreAgentsIsAllYouNeed/AgentForest"
+url: "https://openreview.net/forum?id=bgzUSZ8aeg"
+keywords:
+  - "test-time scaling"
+  - "inference-time scaling"
+  - "multi-agent scaling"
+  - "sampling-and-voting"
+  - "majority voting"
+  - "large language models"
+preferred-citation:
+  type: article
+  title: "More Agents Is All You Need"
+  authors:
+    - family-names: "Li"
+      given-names: "Junyou"
+    - family-names: "Zhang"
+      given-names: "Qin"
+    - family-names: "Yu"
+      given-names: "Yangbin"
+    - family-names: "Fu"
+      given-names: "Qiang"
+    - family-names: "Ye"
+      given-names: "Deheng"
+  journal: "Transactions on Machine Learning Research"
+  issn: "2835-8856"
+  year: 2024
+  url: "https://openreview.net/forum?id=bgzUSZ8aeg"
+  identifiers:
+    - type: url
+      value: "https://arxiv.org/abs/2402.05120"
+      description: "arXiv preprint"
